@@ -1,12 +1,12 @@
 title: Adrian Vasquez
-description: Industrial Engineer, Data Scientist, and Operations Research Analyst
+description: Industrial Engineer, Data Scientist, and Business Operations Analyst
 baseurl: ""
 url: https://adr-vas.github.io
 
 remote_theme: piazzai/cvless
 
 # site settings
-taglong: Industrial Engineer, Data Scientist, and Operations Research Analyst
+taglong: Industrial Engineer, Data Scientist, and Business Operations Analyst
 tagshort: Adrian Vasquez
 cv: true
 
