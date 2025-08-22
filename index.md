@@ -45,8 +45,6 @@ Developed comprehensive real-time analytics platform transforming four years of 
 
 **Technologies:** Real-time Data Processing, Predictive Analytics, Automated Workflow Systems
 
-[Explore Project Details →](projects/ape-analytics)
-
 ---
 
 ### San Francisco Traffic Network Simulation
@@ -71,7 +69,6 @@ Developed systematic approach to identifying and resolving operational bottlenec
 
 **Technologies:** Excel VBA, Process Optimization, Cross-Functional Analysis, Workflow Automation
 
-[Explore Project Details →](projects/process-automation)
 
 ---
 

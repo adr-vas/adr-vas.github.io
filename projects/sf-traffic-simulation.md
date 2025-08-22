@@ -11,20 +11,20 @@ subtitle: IEOR 174 Systems Simulation | UC Berkeley
   <h3>Interactive Presentation Slides</h3>
   <div id="pdf-container" style="width: 100%; height: 700px; border: 1px solid #ccc; margin: 20px 0;">
     <iframe 
-      src="https://mozilla.github.io/pdf.js/web/viewer.html?file=../assets/files/IEOR_174_Project.pdf"
+      src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://adr-vas.github.io/assets/files/IEOR_174_Project.pdf"
       width="100%" 
       height="100%" 
       style="border: none;">
     </iframe>
   </div>
   <div style="text-align: center; margin-top: 10px;">
-    <a href="assets/files/IEOR_174_Project.pdf" download 
+    <a href="https://adr-vas.github.io/assets/files/IEOR_174_Project.pdf" download 
        style="margin-right: 15px; padding: 8px 16px; background-color: #28a745; color: white; text-decoration: none; border-radius: 4px;">
-      ⬇️ Download PDF
+      Download PDF
     </a>
-    <a href="assets/files/IEOR_174_Project.pdf" target="_blank"
+    <a href="https://adr-vas.github.io/assets/files/IEOR_174_Project.pdf" target="_blank"
        style="padding: 8px 16px; background-color: #17a2b8; color: white; text-decoration: none; border-radius: 4px;">
-      🔗 Open in New Tab
+      Open in New Tab
     </a>
   </div>
 </div>
