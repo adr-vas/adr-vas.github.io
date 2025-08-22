@@ -1,20 +1,20 @@
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: Adrian Vasquez
+description: Industrial Engineer, Data Scientist, and Operations Research Analyst
 baseurl: ""
 url: https://adr-vas.github.io
 
 remote_theme: piazzai/cvless
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: Industrial Engineer, Data Scientist, and Operations Research Analyst
+tagshort: Adrian Vasquez
 cv: true
 
 # author settings
 author:
   name: Adrian Vasquez
   email: adrian@vasquez.net
-photo: assets/files/AV_Logo.png
+photo: assets/files/AV_Logo_Light.png
 joblines:
   - University of California, Berkeley
   - Bachelors of Science in Industrial Engineering and Operations Research
@@ -23,16 +23,16 @@ phone: +1 415 412 8356
 
 # profile links
 profile:
-  facebook: https://www.facebook.com/username
-  x: https://x.com/username
-  mastodon: https://mastodon.social/@username
-  bluesky: https://bsky.app/profile/username.bsky.social
-  instagram: https://www.instagram.com/username
-  linkedin: https://www.linkedin.com/in/username
-  xing: https://www.xing.com/profile/username
-  stackoverflow: https://stackoverflow.com/users/0000000/username
-  medium: https://medium.com/@username
-  github: https://github.com/username
+  #facebook: https://www.facebook.com/username
+  #x: https://x.com/username
+  #mastodon: https://mastodon.social/@username
+  #bluesky: https://bsky.app/profile/username.bsky.social
+  #instagram: https://www.instagram.com/username
+  linkedin: https://www.linkedin.com/in/adrian-v-66b0351b7
+  #xing: https://www.xing.com/profile/username
+  #stackoverflow: https://stackoverflow.com/users/0000000/username
+  #medium: https://medium.com/@username
+  github: https://github.com/adr-vas
 
 # build settings
 permalink: pretty

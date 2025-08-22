@@ -3,21 +3,16 @@ layout: home
 title: Home
 ---
 
-# About Me
+# Adrian Vasquez
+**Industrial Engineer | Operations Analyst | Data-Driven Problem Solver**
 
-Born and raised in San Francisco, I've always had an interest in science and engineering. Reframing problems as puzzles waiting to be solved them has always been how my brain works and approaches challenges. 
+Born and raised in San Francisco, I have always maintained a deep interest in science and engineering. Deconstructing problems and solving them represents the fundamental way my mind approaches challenges.
 
-I started my journey with engineering in High School working in the Machine Shop at the Exploratorium, an interactive science and technology museum. I'd spend hours taking apart exhibits to rebuild and repair them.
+My engineering journey began in high school working in the Machine Shop at the Exploratorium, an interactive science and technology museum. I spent countless hours taking apart exhibits to rebuild and repair them, developing an intuitive understanding of how complex systems function.
 
-After developing my hands-on problem-solving experience, I pursued a Bachelors of Science in Industrial Engineering and Operations Research with a Minor in Data Science at UC Berkeley. This took my inclinations for tinkering and transformed it to a skillset focused on modeling and optimizing complex processes at scale. I also gained a deep appreciation and understanding for how to work with big data to gain meaningful insights.
+After cultivating hands-on problem-solving experience, I pursued a Bachelor of Science in Industrial Engineering and Operations Research with a Minor in Data Science at UC Berkeley. This academic foundation transformed my inclinations for tinkering into a sophisticated skillset focused on modeling and optimizing complex processes at scale, while providing deep appreciation and understanding for extracting meaningful insights from large datasets.
 
-[View Complete CV](cv)
-
-[Download Resume](assets/files/cv.pdf)
-
-[Recent Posts](posts)
-
-See below for a more detailed overview of my past work. 
+[View Complete CV](cv) | [Download Resume](assets/files/cv.pdf) 
 
 ---
 
@@ -136,5 +131,3 @@ My professional development priorities center on expanding expertise in cloud-ba
 **LinkedIn:** [adrian-v-66b0351b7](https://www.linkedin.com/in/adrian-v-66b0351b7)
 
 I welcome opportunities to discuss collaborative projects, operational optimization challenges, or applications of data analytics to complex systems problems.
-
-{% include archive.html %}
