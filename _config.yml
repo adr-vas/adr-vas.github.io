@@ -3,7 +3,7 @@ description: Jekyll theme for a beautiful online CV
 baseurl: ""
 url: https://adr-vas.github.io
 
-theme: piazzai/cvless
+remote_theme: piazzai/cvless
 
 # site settings
 taglong: Jekyll theme for a beautiful online CV
